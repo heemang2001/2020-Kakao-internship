@@ -24,5 +24,8 @@
     <ClCompile Include="수식 최대화.cpp">
       <Filter>Source Files\프로그래머스</Filter>
     </ClCompile>
+    <ClCompile Include="보석 쇼핑.cpp">
+      <Filter>Source Files\프로그래머스</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
